@@ -47,7 +47,7 @@
 # stay centered.
 #
 # Quickly! Write a program that prints a Christmas tree of size
-# 5, 6, 7, 8, 9, and 10 to the console so that Santa isn't
+# 6, 7, 8, 9, and 10 to the console so that Santa isn't
 # embarrassed at their party!
 #
 # Santa will give a present to the person who writes the program
