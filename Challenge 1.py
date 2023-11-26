@@ -51,7 +51,7 @@
 # embarrassed at their party!
 #
 # Santa will give a present to the person who writes the program
-# which executes the fastest! Submissions will end Friday 24/11.
+# which executes the fastest! Submissions will end Friday 01/12.
 #
 #
 # Due to North Pole compliance reasons all programs will be run
