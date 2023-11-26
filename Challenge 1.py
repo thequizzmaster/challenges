@@ -54,9 +54,9 @@
 # which executes the fastest! Submissions will end Friday 01/12.
 #
 #
-# Due to North Pole compliance reasons all programs will be run
-# in python. If it's written in a different language, elves will
-# port it into python (potentially poorly).
+# Due to North Pole compliance reasons all speed tests will be 
+# run in python. If it's written in a different language, elves 
+# may have to port it into python (potentially poorly).
 
 
 # ****************************************************************
